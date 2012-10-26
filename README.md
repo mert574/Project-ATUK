@@ -3,5 +3,9 @@ Project-ATUK
 
 Fatih Projesi Akıllı Tahta Uzaktan Kontrol Yazılımı
 
-<b>GÜNCELLEME</b> : Windows Yönetici Şifresi Düzenleme Fonksiyonu Aktif!
-<b>GÜNCELLEME</b> : Keylogger Fonksiyonu Aktif!
+<ln>
+<h5>26/10/2012</h5>
+-Github Deposu Eklendi.
+-<b>GÜNCELLEME</b> : Windows Yönetici Şifresi Düzenleme Fonksiyonu Aktif! <br />
+-<b>GÜNCELLEME</b> : Keylogger Fonksiyonu Aktif!
+<ln>
